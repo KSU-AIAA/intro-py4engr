@@ -1,0 +1,9 @@
+.DS_Store
+*.log
+*.py[co]
+*.tmp
+
+__pycache__/
+/.venv
+
+!.keep
