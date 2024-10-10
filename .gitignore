@@ -1,4 +1,5 @@
 .DS_Store
+*.lck
 *.log
 *.py[co]
 *.tmp
